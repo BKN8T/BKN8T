@@ -48,13 +48,6 @@
 
 ---
 
-<h2 align="left">📈 My Stats</h2>
-<p align="left">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bkn8t&show_icons=true&locale=en)
-</p>
-
----
-
 <h2 align="left">🗨️ Contact</h2>
 <p align="left">
   If you'd like to reach out, feel free to contact me through my social media links above!
@@ -108,13 +101,6 @@
 <p align="left">
   <a href="https://instagram.com/fberkbudag" target="_blank">📸 Instagram</a> | 
   <a href="https://discord.gg/kn8t" target="_blank">💬 Discord</a>
-</p>
-
----
-
-<h2 align="left">📈 İstatistiklerim</h2>
-<p align="left">
-  ![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=bkn8t&show_icons=true&locale=tr)
 </p>
 
 ---
