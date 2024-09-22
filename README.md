@@ -21,11 +21,6 @@
 </p>
 
 <h3 align="left" style="color: #ffffff;">My Projects:</h3>
-<p align="left">
-    - [Project 1](https://github.com/yourusername/project1): Brief description of what this project does.<br>
-    - [Project 2](https://github.com/yourusername/project2): Brief description of what this project does.<br>
-    - [Project 3](https://github.com/yourusername/project3): Brief description of what this project does.<br>
-</p>
 
 <h3 align="left" style="color: #ffffff;">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bkn8t&show_icons=true&locale=en&layout=compact&theme=dark" alt="bkn8t" /></p>
@@ -39,4 +34,4 @@
 </p>
 
 <h3 align="left" style="color: #ffffff;">Support:</h3>
-<p>If you would like to support me, consider donating through <a href="https://www.buymeacoffee.com/yourusername" style="color: #ffffff;">Buy Me a Coffee</a>.</p>
+
