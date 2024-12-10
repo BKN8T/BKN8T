@@ -101,6 +101,7 @@
 <p align="left">
   <a href="https://instagram.com/fberkbudag" target="_blank">📸 Instagram</a> | 
   <a href="https://discord.gg/kn8t" target="_blank">💬 Discord</a>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/FKN8T.png" alt="Your Image Badge" />
 </p>
 
 ---
@@ -109,6 +110,7 @@
 <p align="left">
   Bana ulaşmak isterseniz, yukarıdaki sosyal medya bağlantılarım üzerinden benimle iletişime geçebilirsiniz!
 </p>
+
 
 ---
 
