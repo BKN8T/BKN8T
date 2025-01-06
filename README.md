@@ -31,15 +31,6 @@
 
 ---
 
-<h2 align="left">🌟 My Projects</h2>
-<p align="left">
-  - <a href="https://github.com/bkn8t/KN8Tool">KN8Tool</a>: A project offering cybersecurity tools for beginners.
-  <br>
-  - <a href="https://github.com/bkn8t/other-project">Other Project</a>: Experience collaborating on open-source projects.
-</p>
-
----
-
 <h2 align="left">🔗 Connect with Me</h2>
 <p align="left">
   <a href="https://instagram.com/fberkbudag" target="_blank">📸 Instagram</a> | 
@@ -85,15 +76,6 @@
   <li>🌐 <b>Web Geliştirme</b> - HTML, CSS ve JavaScript kullanarak dinamik web sayfaları oluşturma.</li>
   <li>🔍 <b>Siber Güvenlik</b> - Güvenlik açıkları keşfi ve ağ güvenliği üzerinde çalışmak.</li>
 </ul>
-
----
-
-<h2 align="left">🌟 Projelerim</h2>
-<p align="left">
-  - <a href="https://github.com/bkn8t/KN8Tool">KN8Tool</a>: Başlangıç seviyesindeki kullanıcılar için siber güvenlik araçları sunan bir proje.
-  <br>
-  - <a href="https://github.com/bkn8t/other-project">Other Project</a>: Açık kaynak projeler üzerinde iş birliği yapma deneyimi.
-</p>
 
 ---
 
